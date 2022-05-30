@@ -1,0 +1,19 @@
+/**
+ * This injects Tailwind's base styles and any base styles registered by
+ * plugins.
+ */
+@tailwind base;
+
+/**
+  * This injects Tailwind's component classes and any component classes
+  * registered by plugins.
+  */
+@tailwind components;
+
+/**
+  * This injects Tailwind's utility classes and any utility classes registered
+  * by plugins.
+  */
+@tailwind utilities;
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRhaWx3aW5kLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiJ0YWlsd2luZC5nZW5lcmF0ZWQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBUaGlzIGluamVjdHMgVGFpbHdpbmQncyBiYXNlIHN0eWxlcyBhbmQgYW55IGJhc2Ugc3R5bGVzIHJlZ2lzdGVyZWQgYnlcbiAqIHBsdWdpbnMuXG4gKi9cbkB0YWlsd2luZCBiYXNlO1xuXG4vKipcbiAgKiBUaGlzIGluamVjdHMgVGFpbHdpbmQncyBjb21wb25lbnQgY2xhc3NlcyBhbmQgYW55IGNvbXBvbmVudCBjbGFzc2VzXG4gICogcmVnaXN0ZXJlZCBieSBwbHVnaW5zLlxuICAqL1xuQHRhaWx3aW5kIGNvbXBvbmVudHM7XG5cbi8qKlxuICAqIFRoaXMgaW5qZWN0cyBUYWlsd2luZCdzIHV0aWxpdHkgY2xhc3NlcyBhbmQgYW55IHV0aWxpdHkgY2xhc3NlcyByZWdpc3RlcmVkXG4gICogYnkgcGx1Z2lucy5cbiAgKi9cbkB0YWlsd2luZCB1dGlsaXRpZXM7XG4iXX0= */
